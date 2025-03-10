@@ -55,7 +55,7 @@ let addresses = [
 let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
-	'https://getauto.zq1688.na.am/zqleaders/auto/main/auto.txt?token=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',
+	'https://getauto.zq1688.na.am/zqleaders/auto/main/auto.txt?token=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',
 	'https://addressesapi.090227.xyz/ct',
 	'https://addressesapi.090227.xyz/CloudFlareYes',
 	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
